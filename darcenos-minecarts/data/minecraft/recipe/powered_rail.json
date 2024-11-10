@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "minecraft:stick"
     },
     "R": {
-      "item": "minecraft:redstone"
+      "minecraft:redstone"
     },
     "X": {
-      "item": "minecraft:gold_ingot"
+      "minecraft:gold_ingot"
     }
   },
   "pattern": [
